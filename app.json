@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Kringloop 2.0",
+    "slug": "kringloop20-gorinchem",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F4F1E9"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "nl.kringloop20gorinchem.app"
+    },
+    "android": {
+      "package": "nl.kringloop20gorinchem.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#1F4A3A"
+      }
+    }
+  }
+}
